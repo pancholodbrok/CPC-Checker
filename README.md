@@ -1,11 +1,11 @@
-# CPC-Checker
-Browser extension for the CanardPC Forum
+# CPC Dashboard + TLS
+Firefox extension for the CanardPC Forum, based on CPC Checker by moimadmax. Actually no, it's not based on, it's a total rip-off.
 
 # Description
 Affiche le nombre de discussions suivies avec nouveaux messages de votre tableau de bord du forum CanardPC (http://forum.canardpc.com/).
 
 # Fonctionnalités
-Vous êtes accroc du forum canard PC ? Cette extension vous permet de garder un œil sur le nombre de discutions suivies avec des nouveaux messages ainsi que vos messages privés et messages visiteurs non lus sans avoir à recharger votre tableau de bord. Elle permet aussi de vous rendre en 2 clics sur vos discussions préférées.
+Vous êtes accroc du forum canard PC ? Cette extension vous permet de garder un œil sur le nombre de discussions suivies avec des nouveaux messages ainsi que vos messages privés et messages visiteurs non lus sans avoir à recharger votre tableau de bord. Elle permet aussi de vous rendre en 2 clics sur vos discussions préférées.
 Pour que l'extension fonctionne il faut être connecté sur le site Canard PC.
 Cette extension:
 - Permet de se connecter à la version http ou https du forum.
